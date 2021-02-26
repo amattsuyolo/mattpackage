@@ -1,0 +1,20 @@
+{
+    "name": "mattsu/matt",
+    "description": "yo",
+    "type": "l",
+    "authors": [
+        {
+            "name": "mattsu",
+            "email": "mattsuyolo@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+          "Flower\\Rose\\": "src/Flower/Rose",
+          "Flower\\Lily\\": "src/Flower/Lily"
+        }
+      }
+    
+    }
