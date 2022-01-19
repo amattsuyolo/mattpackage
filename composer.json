@@ -9,7 +9,7 @@
             "email": "mattsuyolo@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "v1.11",
     "require": {
       "php": ">=7.0"
     },
